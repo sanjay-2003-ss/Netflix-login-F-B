@@ -1,16 +1,61 @@
-# React + Vite
+🎬 Netflix Login Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A front-end UI replication of the Netflix login page, built using HTML, CSS, and JavaScript, and deployed on Vercel.
+This project focuses on understanding layout structure, visual design accuracy, and responsive web practices by recreating one of the most recognizable login interfaces on the web.
 
-Currently, two official plugins are available:
+🧠 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Netflix Login Page Clone was developed to practice real-world front-end design skills.
+It’s not a full-stack clone — there’s no backend authentication or API integration — but rather a UI-focused implementation designed to test layout precision, responsiveness, and styling consistency.
 
-## React Compiler
+Each component, from the background gradient to the input fields and button states, was built manually to mirror the authentic Netflix experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 Live Demo: https://netflix-login-f-b.vercel.app
 
-## Expanding the ESLint configuration
+✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Pixel-accurate UI layout inspired by Netflix’s official login page
+
+📱 Fully responsive design (optimized for mobile, tablet, and desktop)
+
+🔤 Clean typography and balanced spacing for a professional look
+
+💫 Hover and focus states for interactive feedback
+
+⚡ Deployed on Vercel for fast, serverless hosting
+
+🧩 Lightweight and fast-loading with minimal assets
+
+🛠️ Tech Stack
+
+HTML5 – Page structure and semantic layout
+
+CSS3 / TailwindCSS (optional) – Styling, positioning, and responsiveness
+
+JavaScript (ES6) – Basic interactivity and form behavior
+
+Vercel – Deployment and live hosting
+
+🧩 Project Structure
+netflix-login-clone/
+│── index.html          # Main page structure
+│── style.css           # Page styling and responsiveness
+│── script.js           # Optional interactivity (e.g., form validation)
+│── images/             # Netflix logo and background assets
+│── README.md           # Project documentation
+
+💡 Learning Outcomes
+
+Working on this project helped me understand the importance of attention to detail in UI design and front-end structure.
+
+Gained hands-on experience in recreating professional layouts using HTML and CSS.
+
+Practiced responsive web design for different devices.
+
+Improved my understanding of positioning, spacing, and typography.
+
+Learned to analyze and rebuild complex UI elements from real websites.
+
+Strengthened ability to deploy and manage static projects on Vercel.
+
+Realized how small visual details — padding, contrast, alignment — separate beginner-level layouts from professional ones.
